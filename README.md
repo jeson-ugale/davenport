@@ -1,4 +1,3 @@
-# Davenport
-My first repository
+# Jeson's Davenport
 
-My name is Jeson Ugale and I graduated from the University of Toronto with a degree in Statistics.
+A davenport is a small writing desk. This repo is my workspace. Welcome.
