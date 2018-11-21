@@ -1,1 +1,5 @@
-## SKILLS DEMONSTRATED
+## PYTHON SKILLS DEMONSTRATED
+- Using the numpy library to create and manipulate arrays.
+- Working with various data formats within python, including: JSON, HTML, Excel Worksheets.
+- Using the pandas module with Python to create and structure data.
+- Creating data visualizations using matplotlib and the seaborn modules with python.
