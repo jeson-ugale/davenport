@@ -1,11 +1,3 @@
 ## JESON'S REPOSITORY
-With this repository, I will demonstrate my potential as a data analyst. My goal is to master Python, R, and SQL to have a strong foundation from which I can build upon.
 
-My education is a Bachelor's of Science (Statistics) from the University of Toronto. My ongoing learning is primarily done through Udemy, an online learning platform. Below are the courses I am currently taking:
-
-- Microsoft Excel - Excel from Beginner to Advanced, by Kyle Pew
-- Learning Python for Data Analysis and Visualization, by Jose Portilla
-- Python for Data Structures, Algorithms, and Interviews!, by Jose Portilla
-- R Programming: Advanced Analytics In R For Data Science, by Kirill Eremenko
-- Data Science A-Z: Real-Life Data Science Exercises Included, by Kirill Eremenko
-- Introduction to Databases and SQL Querying, by Rakesh Gopalakrishnan
+Friendly ML(Machine Learning) - Beginner-friendly Python script that guides the user through the predictive modelling process. Covers supervised learning (regression, classification) and unsupervised learning (clustering, association rule learning). Automates simple data preprocessing, provides feature importances using random forests, assesses models with 10-fold cross validation, automates hyperparameter tuning using the random search method.
